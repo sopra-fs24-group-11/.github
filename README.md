@@ -1,3 +1,5 @@
+![Get-Together](https://github.com/sopra-fs24-group-11/.github/assets/120049684/595d2949-e70c-48e9-a18b-956a1b52149d)
+
 # Project Name: Get-Together
 
 ## Overview
