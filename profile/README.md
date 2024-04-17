@@ -3,7 +3,7 @@
 
 ## Overview
 Get-Together is a web application designed to enhance the experience of planning trips by allowing users to easily organize, share, and manage their journeys. With features like trip history, progress tracking, and friend interaction, Get-Together aims to make trip planning seamless and enjoyable for all users.
-
+[Start planning your trip now!](http://sopra-fs24-group-11-client.oa.r.appspot.com/)
 ## Features
 
 ### Trip Management
