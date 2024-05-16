@@ -1,5 +1,6 @@
 # Project Name: Get-Together
- ![Get-Together](https://github.com/sopra-fs24-group-11/.github/assets/120049684/595d2949-e70c-48e9-a18b-956a1b52149d)
+
+![Get-Together-new](https://github.com/sopra-fs24-group-11/.github/assets/120049684/486dc553-704a-4032-b89f-58049ed7dc4e)
 
 ## Overview
 Get-Together is a web application designed to enhance the experience of planning trips by allowing users to easily organize, share, and manage their journeys. With features like trip history, progress tracking, and friend interaction, Get-Together aims to make trip planning seamless and enjoyable for all users.
